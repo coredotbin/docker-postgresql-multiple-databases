@@ -1,5 +1,7 @@
 # Using multiple databases with the official PostgreSQL Docker image
 
+This fork merges [heliocastro:user_pass_improvements](https://github.com/heliocastro/docker-postgresql-multiple-databases/tree/user_pass_improvement)
+
 The [official recommendation](https://hub.docker.com/_/postgres/) for creating
 multiple databases is as follows:
 
